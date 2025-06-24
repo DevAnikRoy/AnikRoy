@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/LD70d6Rq/Gemini-Generated-Image-7ylrxi7ylrxi7ylr.png" alt="Anik Roy Banner" width="100%" />
+<a href="https://ibb.co/JWJcj2tb"><img src="https://i.ibb.co/LD70d6Rq/Gemini-Generated-Image-7ylrxi7ylrxi7ylr.png" alt="Gemini-Generated-Image-7ylrxi7ylrxi7ylr" border="0"></a>
 
 <h1 align="center">Hi, I'm Anik Roy 👋</h1>
 <h3 align="center">💻 Webflow Developer | Frontend Enthusiast</h3>
