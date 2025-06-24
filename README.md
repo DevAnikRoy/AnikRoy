@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<a href="https://ibb.co/JWJcj2tb"><img src="https://i.ibb.co/LD70d6Rq/Gemini-Generated-Image-7ylrxi7ylrxi7ylr.png" alt="Gemini-Generated-Image-7ylrxi7ylrxi7ylr" border="0"></a>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGXZNfS6Qeuig/profile-displaybackgroundimage-shrink_350_1400/B56ZUfuRH4GUAc-/0/1739993978160?e=1756339200&v=beta&t=s0ZOwcCnV5t8TlEOUSFtyc_JlatvLYQLmK2Uqz0H5vQ" alt="Anik Roy Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Anik Roy 👋</h1>
 <h3 align="center">💻 Webflow Developer | Frontend Enthusiast</h3>
