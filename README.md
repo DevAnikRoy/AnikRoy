@@ -34,3 +34,30 @@ I enjoy building interactive UIs, responsive websites, and exploring modern web 
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+  <!-- Profile Views -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=DevAnikRoy&color=00ffd7" 
+    alt="Profile Views" 
+  />
+
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DevAnikRoy&show_icons=true&theme=radical&bg_color=0d1117&border_color=00ffd7&icon_color=00ffd7&text_color=c0c0c0&hide_title=true" 
+    alt="DevAnikRoy's GitHub Stats" 
+  />
+
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnikRoy&layout=compact&theme=dracula&bg_color=0d1117&border_color=00ffd7&icon_color=00ffd7&text_color=c0c0c0&hide_title=true" 
+    alt="DevAnikRoy's Top Languages" 
+  />
+</div>
+
+---
+
+🛸 **Signature Badge**  
+```markdown
+![DevAnikRoy's Wormhole](https://img.shields.io/badge/🚀-Into_the_Galaxy-00ffad?style=for-the-badge&logo=github)
