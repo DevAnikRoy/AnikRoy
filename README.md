@@ -36,28 +36,20 @@ I enjoy building interactive UIs, responsive websites, and exploring modern web 
 ---
 ## 📊 GitHub Analytics
 
+<!-- Futuristic GitHub Stats Panel -->
 <div align="center">
-  <!-- Profile Views -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=DevAnikRoy&color=00ffd7" 
-    alt="Profile Views" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+DevMonk+HQ;Crafting+Code+Beyond+Earth;Backend+Alchemy+in+Progress..." alt="Typing SVG" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAnikRoy&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00f7ff&title_color=00f7ff&text_color=ffffff" alt="Anik's GitHub Stats" />
 
-  <!-- GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevAnikRoy&show_icons=true&theme=radical&bg_color=0d1117&border_color=00ffd7&icon_color=00ffd7&text_color=c0c0c0&hide_title=true" 
-    alt="DevAnikRoy's GitHub Stats" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAnikRoy&theme=tokyonight&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=ffffff" alt="GitHub Streak" />
 
-  <!-- Top Languages Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnikRoy&layout=compact&theme=dracula&bg_color=0d1117&border_color=00ffd7&icon_color=00ffd7&text_color=c0c0c0&hide_title=true" 
-    alt="DevAnikRoy's Top Languages" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAnikRoy&theme=react-dark&hide_border=true&area=true&color=00f7ff&line=00f7ff&point=ffffff" alt="Activity Graph" />
 </div>
-
----
-
-🛸 **Signature Badge**  
-```markdown
-![DevAnikRoy's Wormhole](https://img.shields.io/badge/🚀-Into_the_Galaxy-00ffad?style=for-the-badge&logo=github)
+<style>
+  @keyframes pulseGlow {
+  0% { box-shadow: 0 0 5px #00f7ff; }
+  50% { box-shadow: 0 0 20px #00f7ff; }
+  100% { box-shadow: 0 0 5px #00f7ff; }
+}
+</style>
