@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/NgKJrsxz/Screenshot-2025-06-25-021207.png" alt="Anik Roy Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Anik Roy 👋</h1>
-<h3 align="center">💻 Webflow Developer | Frontend Enthusiast</h3>
+<h3 align="center">💻 Webflow Developer | MERN Enthusiast</h3>
 
 ---
 
