@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/NgKJrsxz/Screenshot-2025-06-25-021207.png" alt="Anik Roy Banner" width="100%" />
+<img src="https://i.ibb.co/tpYL7WGR/Copilot-20250721-115215.png" alt="Anik Roy Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Anik Roy 👋</h1>
 <h3 align="center">💻 Webflow Developer | MERN Enthusiast</h3>
